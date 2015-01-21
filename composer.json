@@ -1,0 +1,20 @@
+{
+    "name": "iftekhersunny/validation",
+    "description": "",
+    "authors": [
+        {
+            "name": "iftekher Sunny",
+            "email": "iftekhersunny@hotmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "illuminate/support": "4.2.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "Iftekhersunny\\Validation": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
